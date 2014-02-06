@@ -1,7 +1,7 @@
 inherit python3-distutils
 
 NAME="python3-six"
-VERSION=1.2.0
+VERSION=1.5.2
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Python 2 and 3 compatibility library"
